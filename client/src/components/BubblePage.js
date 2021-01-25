@@ -15,7 +15,7 @@ const BubblePage = () => {
     }
 )
   .catch((err)=> {
-    console.log((err)
+    err = err => console.log((err)
   )})}, [])
 
 
